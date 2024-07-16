@@ -1,4 +1,11 @@
-In this project I did an in-depth exploration of data of number of sales from several shops across a ~3 year time series. I started with standard descriptive statistics and time series analysis to find out how to group shops and perform feature engineering. I am currently working on creating several models to forecast future sales, I plan to start with a simple regression model then move onto more complex models/methods such as Bayesian inference and machine learning.
+In this project I am working on an in-depth exploration of sales data to predict future sales using a range of statistical and ML methods
+
+<img width="1034" alt="Screenshot 2024-07-16 at 22 20 35" src="https://github.com/user-attachments/assets/a9b186a4-6f65-4a5c-a4fc-e7b5d1a26b76">
+
+<img width="923" alt="Screenshot 2024-07-16 at 22 21 22" src="https://github.com/user-attachments/assets/a36afc18-1681-48d4-98ee-a8349de0310e">
+
+<img width="1042" alt="Screenshot 2024-07-16 at 22 28 39" src="https://github.com/user-attachments/assets/800c3a17-9546-4478-b9e5-a9d1315a0534">
+
 
 Skills:
 Statistical/time series analysis
@@ -7,7 +14,3 @@ Python
 
 
 
-<img width="1031" alt="plan1" src="https://github.com/OliviaJayeola/DataSciencePortfolio/assets/114793837/a92b5689-0aa5-480d-9c29-f0297d672e0a">
-
-
-<img width="1018" alt="plan2" src="https://github.com/OliviaJayeola/DataSciencePortfolio/assets/114793837/cbb63167-72a9-49d0-b219-4adb2809d0f6">
